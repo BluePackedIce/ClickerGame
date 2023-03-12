@@ -1,1 +1,2 @@
 # ClickerGame
+Javaで作ったシンプルなクリッカーゲーム
